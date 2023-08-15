@@ -10,7 +10,7 @@ To run this application locally, ensure the [Deno runtime is installed first](ht
 deno task start
 ```
 
-This will start the Fresh server, as configured in `deno.json` at the root of this project. Your project will be monitored for changes, and restart if necessary.
+This will start Fresh server, as configured in `deno.json` at the root of this project. Your project will be monitored for changes, and restart if necessary.
 
 ## Running on Deno Deploy
 
